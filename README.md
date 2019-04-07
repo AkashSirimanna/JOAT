@@ -13,29 +13,29 @@ This model is widely used in the industry, which is why I thought of automating 
 
 This DCF model is broken into these 3 parts
 * Forecasting Free Cash Flows (FCF)
-  ![FCF](fcf.png)
+  ![FCF](/images/FCF.PNG)
 
 * Weighted Average Cost of Capital (WACC)
-  ![WACC](wacc.png)
+  ![WACC](/images/wacc.PNG)
 
 * Terminal and Intricsic Value
-  ![VALUATION](valuation.png)
+  ![VALUATION](/images/valuation.PNG)
 
 ## Technical Analysis ##
 Technical analysis is a methodology I firmly believe in. It allows us to determine patterns not usually found through financial analysis.
-I think it's safe to say that, technical analysis is my guy 😤
 
-This portion of the program is split into determining the follow
-* Entry/Exit Points
-
-* Support/Resistance Regions
+This portion of the program is split into determining the following
+* Entry/Exit Points to Determine Support and Resistance Regios
+![SupRes](/images/regions.PNG)
 
 ## Sentiment Analysis ##
 This was the most skeptical portion of the concept for me. I just started out with machine learning, especially with natural language processing. It's all a blur to me at the moment but I decided to give TextBlob a try.
 I scrape tweets from twitter corresponding to a specific stock ticker and plot the sentiment and price correlation.
 * Determining Sentiment
+![Sentiment](/images/sentiment.PNG)
 
 * Relating Sentiment and Price
+![Plot](/images/plot.PNG)
 
 ### Dependencies/Libraries Used ###
 1. Pandas
