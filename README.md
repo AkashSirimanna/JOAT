@@ -1,6 +1,10 @@
 # Jack-Of-All-Trades
 Analysis program written in Python that consolidates 3 pillars of investment analysis; sentiment, technical and fundamental. This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
-![DCF](/images/dcf.PNG) ![technical](/images/technical.PNG) ![sentiment](/images/sentimentPlot.PNG)
+<p float="left">
+  <img src="images/dcf.PNG" width="300" />
+  <img src="images/sentimentPlot.PNG" width="300" /> 
+  <img src="images/technical.PNG" width="300" />
+</p>
 
 ## Inspiration ##
 Coding and finance are my two passions. However, I feel as if there is gap between the two disciplines which I think should not exist.
