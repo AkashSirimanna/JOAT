@@ -1,5 +1,6 @@
 # Jack-Of-All-Trades
 Analysis program written in Python that consolidates 3 pillars of investment analysis; sentiment, technical and fundamental. This script takes a stock ticker, performs a discounted cash flow valuation, identifies support and resistance levels alongside entry and exit points. This leads to a final sentiment vs price analysis conducted with data from twitter.
+![DCF](/images/dcf.PNG) ![technical](/images/technical.PNG) ![sentiment](/images/sentimentPlot.PNG)
 
 ## Inspiration ##
 Coding and finance are my two passions. However, I feel as if there is gap between the two disciplines which I think should not exist.
@@ -26,7 +27,7 @@ Technical analysis is a methodology I firmly believe in. It allows us to determi
 
 This portion of the program is split into determining the following
 * Entry/Exit Points to Determine Support and Resistance Regios
-![SupRes](/images/regions.PNG)
+![SupRes](/images/region.PNG)
 
 ## Sentiment Analysis ##
 This was the most skeptical portion of the concept for me. I just started out with machine learning, especially with natural language processing. It's all a blur to me at the moment but I decided to give TextBlob a try.
