@@ -13,10 +13,13 @@ This model is widely used in the industry, which is why I thought of automating 
 
 This DCF model is broken into these 3 parts
 * Forecasting Free Cash Flows (FCF)
+  ![FCF](/images/fcf.png)
 
 * Weighted Average Cost of Capital (WACC)
+  ![WACC](/images/wacc.png)
 
 * Terminal and Intricsic Value
+  ![VALUATION](/images/valuation.png)
 
 ## Technical Analysis ##
 Technical analysis is a methodology I firmly believe in. It allows us to determine patterns not usually found through financial analysis.
